@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsysadmin-day%3Fsort%3Drelevant&psig=AOvVaw0uRCH_d4HDmxhWCMJ73RcD&ust=1729938806391000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDpmMCrqYkDFQAAAAAdAAAAABAE)
+![MasterHead](https://i.giphy.com/qgQUggAC3Pfv687qPC.webp)
 <h1 align="center">Hi 👋, I'm Micky Dev</h1>
 <h3 align="center">Frontend developer transitioning to full-stack. Combining creativity on the frontend with the power of backend technologies to build dynamic, full-featured applications. Constantly growing and pushing the boundaries of what’s possible</h3>
 </br>
