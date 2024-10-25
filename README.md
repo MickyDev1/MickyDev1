@@ -1,9 +1,9 @@
-![MasterHead]()
+![MasterHead](https://media.licdn.com/dms/image/C4E12AQFqEHPp0vRqQA/article-cover_image-shrink_720_1280/0/1634393374732?e=2147483647&v=beta&t=KGgxFoFiiQ9yyp5gGEVHvUtGh1HN5z0vUY72kKZcE5M)
 <h1 align="center">Hi 👋, I'm Micky Dev</h1>
 <h3 align="center">Frontend developer transitioning to full-stack. Combining creativity on the frontend with the power of backend technologies to build dynamic, full-featured applications. Constantly growing and pushing the boundaries of what’s possible</h3>
 </br>
 
-<img align="right" alt="coder" width="400" src="[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://i.giphy.com/qgQUggAC3Pfv687qPC.webp)" />
+<img align="right" alt="coder" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
 
