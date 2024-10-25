@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fclipart-vector%2Fprogramming_language.html&psig=AOvVaw22dpDHsYi9uMTY5jvf4iY7&ust=1729938901329000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIimn-qqqYkDFQAAAAAdAAAAABAJ))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsysadmin-day%3Fsort%3Drelevant&psig=AOvVaw0uRCH_d4HDmxhWCMJ73RcD&ust=1729938806391000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDpmMCrqYkDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Micky</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 </br>
