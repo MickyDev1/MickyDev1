@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,html,css,scss" /> </br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vscode,figma,git,angular" />
   </a>
 </div>
 </br>
@@ -50,11 +50,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&locale=en" alt="amnesia2k" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MickyDev1&show_icons=true&locale=en" alt="MickyDev1" />
   
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&" alt="amnesia2k" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MickyDev1&" alt="MickyDev1" />
   </br>
 
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnesia2k&show_icons=true&locale=en&layout=compact" alt="amnesia2k" /> 
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MickyDev1&show_icons=true&locale=en&layout=compact" alt="MickyDev1" /> 
 </div>
 
