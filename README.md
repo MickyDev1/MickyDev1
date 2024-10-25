@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
 
 
-- 🔭 I’m currently working on a Task Mnagement Application using Angular
+- 🔭 I’m currently working on a Task management application using Angular
 
--  🌱 I’m currentlay learnning **Angular Js**
+-  🌱 I’m currently learning **Angular Js**
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
