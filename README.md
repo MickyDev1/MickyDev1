@@ -1,9 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+![MasterHead]([https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fclipart-vector%2Fprogramming_language.html&psig=AOvVaw22dpDHsYi9uMTY5jvf4iY7&ust=1729938901329000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIimn-qqqYkDFQAAAAAdAAAAABAJ))
 <h1 align="center">Hi 👋, I'm Micky</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 </br>
 
-<img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="coder" width="400" src="[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsysadmin-day%3Fsort%3Drelevant&psig=AOvVaw0uRCH_d4HDmxhWCMJ73RcD&ust=1729938806391000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDpmMCrqYkDFQAAAAAdAAAAABAE)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
 
