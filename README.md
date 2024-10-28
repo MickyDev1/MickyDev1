@@ -26,8 +26,8 @@
   <h2>🔗 Connect with me 🔗</h2>
   </br>
   <p>
-<!-- <!--   <a href="https://twitter.com/kang_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kang_codes" height="30" width="40" /></a> -->
-  <a href="https://www.linkedin.com/in/michael-oladele-991712250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael Oladele" height="30" width="40" /></a> -->
+  <a href="https://x.com/MickyDev_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MickyDev_1" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/michael-oladele-991712250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael Oladele" height="30" width="40" /></a>
   <a href="https://medium.com/@michaeloladele373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaeloladele373" height="30" width="40" /></a>
   </p>
 </div>
