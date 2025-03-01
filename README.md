@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D12AQHhGxpuBK0asg/article-cover_image-shrink_600_2000/0/1688219211489?e=2147483647&v=beta&t=j2ImZsP_GxSPekNtZkBs5pqUi9JS6TuqPOW-Jm6Cu08)
-<h1 align="center">Hi 👋, I'm Micky Dev</h1>
+<h1 align="center">Hi 👋, I'm Oladele Michael also known has Micky Dev</h1>
 <h3 align="center">Frontend developer transitioning to full-stack. Combining creativity on the front end with the power of backend technologies to build dynamic, full-featured applications. Constantly growing and pushing the boundaries of what’s possible.</h3>
 </br>
 
