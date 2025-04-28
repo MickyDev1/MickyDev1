@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on an E-Commerce website for a clothing business
 
--  🌱 I’m currently  **Upskilling myself**
+-  🌱 I’m currently  **Upskilling myself and Learning NEXT.JS**
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
