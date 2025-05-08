@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
-- 🤝 I’m looking for help with **Angular Js and ReactJs**
+- 🤝 I’m looking for help with **Next Js and ReactJs**
 
 - 📫 How to reach me **oladelemichael587@gmail.com**
 
