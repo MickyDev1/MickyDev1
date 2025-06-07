@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
-- 🤝 I’m looking for help with **Next Js and ReactJs**
+- 🤝 I’m looking for help with **Next Js and NodeJs**
 
 - 📫 How to reach me **oladelemichael587@gmail.com**
 
@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,html,css,Vuejs,Typescript" /> </br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vscode,figma,git,angular" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vscode,figma,git,angular,Typescript" />
   </a>
 </div>
 </br>
