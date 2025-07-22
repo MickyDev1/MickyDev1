@@ -32,7 +32,6 @@
   <a href="https://medium.com/@michaeloladele373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaeloladele373" height="30" width="40" /></a>
     
   </p>
-  📫 You can reach me: **oladelemichael587@gmail.com**
 </div>
 
 </br>
