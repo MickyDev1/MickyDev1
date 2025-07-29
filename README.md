@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on an E-Commerce website for a clothing business
 
--  🌱 I’m currently  **Upskilling myself and Learning NEXT.JS and Node.Js**
+-  🌱 I’m currently  **Upskilling myself and Learning NEXT.JS and Node.JS**
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oladelemichael587@gmail.com**
 
-- ⚡ Fun fact **I play video games.**
+- ⚡ Fun fact **Game lover.**
 
   </br>
   
