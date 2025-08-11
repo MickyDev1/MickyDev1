@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **oladelemichael587@gmail.com**
 
-- ⚡ Fun fact **Game lover.**
+- ⚡ Fun fact **Game lover mostly CODM and Football ⚽.**
 
   </br>
   
