@@ -6,8 +6,6 @@
 
 <img align="right" alt="coder" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
-
 
 - 🔭 I’m currently working on an E-Commerce website for a clothing business
 
