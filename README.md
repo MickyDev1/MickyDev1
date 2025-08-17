@@ -41,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,angular,typescript,react,next,javascript,tailwind" />
   <br />
   <img src="https://skillicons.dev/icons?i=Onentry,prisma,git,vscode,figma" />
+  
 </div>
 </br>
 
