@@ -1,60 +1,64 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQHhGxpuBK0asg/article-cover_image-shrink_600_2000/0/1688219211489?e=2147483647&v=beta&t=j2ImZsP_GxSPekNtZkBs5pqUi9JS6TuqPOW-Jm6Cu08)
-<h1 align="center">Hi 👋, I'm Oladele Michael also known has Micky Dev</h1>
-<p align="center"><em>(React.js • Next.js • TypeScript) | Trying to Build End-to-End Web App soon 🔜 </em></p>
-<h3 align="center">Frontend developer transitioning to full-stack. Combining creativity on the front end with the power of backend technologies to build dynamic, full-featured applications. Constantly growing and pushing the boundaries of what’s possible. Loving the journey</h3>
-</br>
-
-<img align="right" alt="coder" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
-
-
-- 🔭 I’m currently working on an E-Commerce website for a clothing business
-
--  🌱 I’m currently  **Upskilling myself and Learning NEXT.JS and Node.JS**
-
-- 👯 I’m looking to collaborate on **problem solving projects.**
-
-- 🤝 I’m looking for help with **Next Js and NodeJs**
-
-- 📫 How to reach me **oladelemichael587@gmail.com**
-
-- ⚡ Fun fact **Game lover mostly CODM and Football ⚽.**
-
-  </br>
-  
 <div align="center">
-  <h2>🔗 Connect with me... 🔗</h2>
-  </br>
-  <p>
-  <a href="https://x.com/MickyDev_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MickyDev_1" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/michael-oladele-991712250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael Oladele" height="30" width="40" /></a>
-  <a href="https://medium.com/@michaeloladele373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaeloladele373" height="30" width="40" /></a>
-    
-  </p>
+  <img src="./assets/gp.png" alt="Micky Dev profile banner" width="100%" />
 </div>
 
-</br>
+<h1 align="center">Hi 👋, I'm Oladele Michael, also known as Micky Dev</h1>
 
+<h3 align="center">
+  Frontend developer transitioning into full-stack development.
+</h3>
 
-<h2 align="center">🛠️ Languages-Framework-Tools 🛠️</h2>
-</br>
+<p align="center">
+  <strong>React.js • Next.js • TypeScript</strong><br />
+  I build clean, responsive front-end experiences while growing my backend skills with Node.js and modern full-stack tools.
+</p>
+
+<p align="center">
+  <a href="https://x.com/MickyDev_1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="MickyDev_1 on X" />
+  </a>
+  <a href="https://www.linkedin.com/in/michael-oladele-991712250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michael Oladele on LinkedIn" />
+  </a>
+  <a href="https://medium.com/@michaeloladele373" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="@michaeloladele373 on Medium" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>About Me</h3>
+      <ul>
+        <li>🔭 I'm currently building an e-commerce website for a clothing business.</li>
+        <li>🌱 I'm upskilling in <strong>Next.js</strong>, <strong>Node.js</strong>, and full-stack application development.</li>
+        <li>👯 I'm open to collaborating on problem-solving projects.</li>
+        <li>🤝 I'm looking for help with <strong>Next.js</strong> and <strong>Node.js</strong>.</li>
+        <li>📫 Reach me at <strong>oladelemichael587@gmail.com</strong>.</li>
+        <li>⚡ Fun fact: I enjoy CODM and football.</li>
+      </ul>
+    </td>
+    <td width="42%" valign="top">
+      <img alt="Coding animation" width="100%" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,nodejs,express,prisma,git,github,vscode,figma&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS, Node.js, Express, Prisma, Git, GitHub, VS Code, and Figma" />
+</p>
+
+---
+
+<h2 align="center">⚡ GitHub Stats</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,typescript,react,next,javascript,tailwind" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MickyDev1&show_icons=true&theme=github_dark&hide_border=true" alt="MickyDev1 GitHub stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=MickyDev1&theme=github-dark-blue&hide_border=true" alt="MickyDev1 GitHub streak" />
   <br />
-  <img src="https://skillicons.dev/icons?i=Onentry,prisma,git,vscode,figma" />
-  
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=MickyDev1&layout=compact&theme=github_dark&hide_border=true" alt="MickyDev1 top languages" />
 </div>
-</br>
-
-</hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MickyDev1&show_icons=true&locale=en" alt="MickyDev1" />
-  
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MickyDev1&" alt="MickyDev1" />
-  </br>
-
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MickyDev1&show_icons=true&locale=en&layout=compact" alt="MickyDev1" /> 
-</div>
-
