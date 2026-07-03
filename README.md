@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gp.png" alt="Micky Dev profile banner" width="100%" />
+  <img src="./assets/mick.png" alt="Micky Dev profile banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Oladele Michael, also known as Micky Dev</h1>
@@ -57,8 +57,8 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MickyDev1&show_icons=true&theme=github_dark&hide_border=true" alt="MickyDev1 GitHub stats" />
-  <img width="390" src="https://streak-stats.demolab.com?user=MickyDev1&theme=github-dark-blue&hide_border=true" alt="MickyDev1 GitHub streak" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MickyDev1&amp;theme=github_dark" alt="MickyDev1 GitHub stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=MickyDev1&amp;theme=github-dark-blue&amp;hide_border=true" alt="MickyDev1 GitHub streak" />
   <br />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=MickyDev1&layout=compact&theme=github_dark&hide_border=true" alt="MickyDev1 top languages" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MickyDev1&amp;theme=github_dark" alt="MickyDev1 top languages" />
 </div>
